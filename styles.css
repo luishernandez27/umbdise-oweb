@@ -8,14 +8,14 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #FFA500;
+    color: #E68A00;
     background-color: #f4f4f4;
 }
 
 /* Estilos de la cabecera */
 header {
-    background-color: #FFA500;
-    color: #fff;
+    background-color: #E68A00;
+    color: #000;
     padding: 1rem;
     text-align: center;
 }
